@@ -1,2 +1,2 @@
 # Cake_sell_web
-e-commerce Cack Selling Website (php)
+e-commerce Cake Selling Website (php)
